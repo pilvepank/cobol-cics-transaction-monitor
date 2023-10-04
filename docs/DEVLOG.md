@@ -10,3 +10,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-09-23** `[007]`: chore: add Windows compilation batch stub
 - **2023-09-27** `[008]`: chore: add Windows execution runner stub
 - **2023-09-30** `[009]`: docs: add initial system overview to README
+- **2023-10-04** `[010]`: docs: add memory allocation and performance invariant targets
