@@ -14,3 +14,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-10-07** `[011]`: feat(schema): declare project version manifest
 - **2023-10-11** `[012]`: docs: define security guidelines and vulnerability disclosure terms
 - **2023-10-14** `[013]`: docs: establish open source contribution agreement
+- **2023-10-18** `[014]`: chore: add academic license header
