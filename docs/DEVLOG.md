@@ -15,3 +15,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-10-11** `[012]`: docs: define security guidelines and vulnerability disclosure terms
 - **2023-10-14** `[013]`: docs: establish open source contribution agreement
 - **2023-10-18** `[014]`: chore: add academic license header
+- **2023-10-21** `[015]`: docs: create changelog tracking ledger
