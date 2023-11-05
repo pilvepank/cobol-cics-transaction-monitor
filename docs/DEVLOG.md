@@ -19,3 +19,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-10-25** `[016]`: docs: add directory layout conventions
 - **2023-10-29** `[017]`: feat(schema): declare common return status codes
 - **2023-11-01** `[018]`: docs: outline test strategy and assertion principles
+- **2023-11-05** `[019]`: chore: tag v0.1.0-alpha architecture milestone
