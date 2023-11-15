@@ -22,3 +22,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-05** `[019]`: chore: tag v0.1.0-alpha architecture milestone
 - **2023-11-08** `[020]`: Merge pull request #1 from pilvepank/init-architecture
 - **2023-11-12** `[021]`: feat(schema): scaffold BMS-SCREEN.cpy record layout and header fields
+- **2023-11-15** `[022]`: feat(schema): add secondary payload fields and attributes to BMS-SCREEN.cpy
