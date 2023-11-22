@@ -24,3 +24,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-12** `[021]`: feat(schema): scaffold BMS-SCREEN.cpy record layout and header fields
 - **2023-11-15** `[022]`: feat(schema): add secondary payload fields and attributes to BMS-SCREEN.cpy
 - **2023-11-19** `[023]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in BMS-SCREEN.cpy
+- **2023-11-22** `[024]`: feat(schema): declare 88-level condition names and validation states in BMS-SCREEN.cpy
