@@ -27,3 +27,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-22** `[024]`: feat(schema): declare 88-level condition names and validation states in BMS-SCREEN.cpy
 - **2023-11-26** `[025]`: docs(schema): document byte offsets and alignment boundaries for BMS-SCREEN.cpy
 - **2023-11-29** `[026]`: Merge pull request #6 from pilvepank/schema-bms-screen-cpy
+- **2023-12-03** `[027]`: feat(schema): scaffold CICS-COMMAREA.cpy record layout and header fields
