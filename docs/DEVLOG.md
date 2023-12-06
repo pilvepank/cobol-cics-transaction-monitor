@@ -28,3 +28,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-11-26** `[025]`: docs(schema): document byte offsets and alignment boundaries for BMS-SCREEN.cpy
 - **2023-11-29** `[026]`: Merge pull request #6 from pilvepank/schema-bms-screen-cpy
 - **2023-12-03** `[027]`: feat(schema): scaffold CICS-COMMAREA.cpy record layout and header fields
+- **2023-12-06** `[028]`: feat(schema): add secondary payload fields and attributes to CICS-COMMAREA.cpy
