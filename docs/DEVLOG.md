@@ -30,3 +30,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-03** `[027]`: feat(schema): scaffold CICS-COMMAREA.cpy record layout and header fields
 - **2023-12-06** `[028]`: feat(schema): add secondary payload fields and attributes to CICS-COMMAREA.cpy
 - **2023-12-10** `[029]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in CICS-COMMAREA.cpy
+- **2023-12-13** `[030]`: feat(schema): declare 88-level condition names and validation states in CICS-COMMAREA.cpy
