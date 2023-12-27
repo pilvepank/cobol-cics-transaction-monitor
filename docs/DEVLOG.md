@@ -34,3 +34,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-17** `[031]`: docs(schema): document byte offsets and alignment boundaries for CICS-COMMAREA.cpy
 - **2023-12-20** `[032]`: Merge pull request #8 from pilvepank/schema-cics-commarea-cpy
 - **2023-12-24** `[033]`: feat(schema): scaffold CICS-TABLES.cpy record layout and header fields
+- **2023-12-27** `[034]`: feat(schema): add secondary payload fields and attributes to CICS-TABLES.cpy
