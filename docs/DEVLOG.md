@@ -36,3 +36,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-24** `[033]`: feat(schema): scaffold CICS-TABLES.cpy record layout and header fields
 - **2023-12-27** `[034]`: feat(schema): add secondary payload fields and attributes to CICS-TABLES.cpy
 - **2023-12-31** `[035]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in CICS-TABLES.cpy
+- **2024-01-03** `[036]`: feat(schema): declare 88-level condition names and validation states in CICS-TABLES.cpy
