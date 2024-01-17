@@ -40,3 +40,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-07** `[037]`: docs(schema): document byte offsets and alignment boundaries for CICS-TABLES.cpy
 - **2024-01-10** `[038]`: Merge pull request #10 from pilvepank/schema-cics-tables-cpy
 - **2024-01-14** `[039]`: feat(cics): scaffold cics_dispatcher.cbl identification and environment division
+- **2024-01-17** `[040]`: feat(cics): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
