@@ -42,3 +42,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-14** `[039]`: feat(cics): scaffold cics_dispatcher.cbl identification and environment division
 - **2024-01-17** `[040]`: feat(cics): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2024-01-21** `[041]`: feat(cics): declare working-storage state buffers and accumulator registers
+- **2024-01-24** `[042]`: feat(cics): declare internal lookup tables and binary index pointers
