@@ -43,3 +43,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-17** `[040]`: feat(cics): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2024-01-21** `[041]`: feat(cics): declare working-storage state buffers and accumulator registers
 - **2024-01-24** `[042]`: feat(cics): declare internal lookup tables and binary index pointers
+- **2024-01-28** `[043]`: feat(cics): implement 0000-MAIN entry point and dispatch control loop
