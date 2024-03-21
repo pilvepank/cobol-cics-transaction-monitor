@@ -58,3 +58,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-03-10** `[055]`: feat(cics): implement ASCII diagnostic monitoring and display formatter
 - **2024-03-14** `[056]`: perf(cics): eliminate intermediate arithmetic variables to reduce register spill
 - **2024-03-17** `[057]`: refactor(cics): standardize paragraph naming and PERFORM THRU boundaries
+- **2024-03-21** `[058]`: fix(cics): handle zero-quantity edge case without state corruption
