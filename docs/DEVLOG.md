@@ -62,3 +62,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-03-24** `[059]`: Merge pull request #12 from pilvepank/fix-zero-qty
 - **2024-03-28** `[060]`: feat(cics): add audit trail event logging and transaction counter
 - **2024-03-31** `[061]`: docs(cics): document engine execution lifecycle in docs/SPECIFICATION.md
+- **2024-04-04** `[062]`: chore(cics): tag v0.5.0-beta core engine milestone
