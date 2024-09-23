@@ -111,3 +111,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-09-12** `[108]`: test(transaction): format summary table and pass/fail assertion reporter
 - **2024-09-16** `[109]`: fix(test): correct expected test returncode assertion condition
 - **2024-09-19** `[110]`: Merge pull request #33 from pilvepank/test-suite
+- **2024-09-23** `[111]`: build: configure automated test target in Makefile
