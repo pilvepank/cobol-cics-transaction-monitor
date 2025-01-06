@@ -141,3 +141,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-12-27** `[138]`: refactor(cics_racf_auth): optimize memory layout and eliminate redundant PERFORM calls
 - **2024-12-30** `[139]`: docs(cics_racf_auth): document submodule architecture and usage in docs/SUBMODULES.md
 - **2025-01-03** `[140]`: Merge pull request #43 from pilvepank/feat-cics_racf_auth
+- **2025-01-06** `[141]`: feat(cics_tsq_manager): declare copybook schema TSQ-QUEUE.cpy
