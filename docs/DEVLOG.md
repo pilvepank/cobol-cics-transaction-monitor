@@ -145,3 +145,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-01-10** `[142]`: feat(cics_tsq_manager): add validation bounds and status condition names to TSQ-QUEUE.cpy
 - **2025-01-14** `[143]`: feat(cics_tsq_manager): scaffold cics_tsq_manager.cbl subprogram interface
 - **2025-01-17** `[144]`: feat(cics_tsq_manager): implement calculation logic and state transitions in cics_tsq_manager.cbl
+- **2025-01-21** `[145]`: feat(cics_tsq_manager): add defensive parameter verification to cics_tsq_manager.cbl
