@@ -149,3 +149,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-01-24** `[146]`: test(cics_tsq_manager): establish automated unit test suite in cics_bms_test.cbl
 - **2025-01-28** `[147]`: test(cics_tsq_manager): achieve 100% test assertion pass rate for cics_tsq_manager
 - **2025-01-31** `[148]`: refactor(cics_tsq_manager): optimize memory layout and eliminate redundant PERFORM calls
+- **2025-02-04** `[149]`: docs(cics_tsq_manager): document submodule architecture and usage in docs/SUBMODULES.md
