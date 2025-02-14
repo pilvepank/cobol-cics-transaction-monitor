@@ -152,3 +152,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-02-04** `[149]`: docs(cics_tsq_manager): document submodule architecture and usage in docs/SUBMODULES.md
 - **2025-02-07** `[150]`: Merge pull request #46 from pilvepank/feat-cics_tsq_manager
 - **2025-02-11** `[151]`: refactor(subsystems): tighten linkage section parameter validations (step 20)
+- **2025-02-14** `[152]`: refactor(subsystems): tighten linkage section parameter validations (step 21)
