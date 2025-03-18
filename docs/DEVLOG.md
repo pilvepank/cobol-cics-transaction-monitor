@@ -161,3 +161,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-03-07** `[158]`: refactor(subsystems): tighten linkage section parameter validations (step 27)
 - **2025-03-11** `[159]`: refactor(subsystems): tighten linkage section parameter validations (step 28)
 - **2025-03-14** `[160]`: refactor(subsystems): tighten linkage section parameter validations (step 29)
+- **2025-03-18** `[161]`: refactor(subsystems): tighten linkage section parameter validations (step 30)
