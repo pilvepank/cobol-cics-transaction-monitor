@@ -166,3 +166,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-03-25** `[163]`: refactor(subsystems): tighten linkage section parameter validations (step 32)
 - **2025-03-28** `[164]`: refactor(subsystems): tighten linkage section parameter validations (step 33)
 - **2025-04-01** `[165]`: refactor(subsystems): tighten linkage section parameter validations (step 34)
+- **2025-04-04** `[166]`: feat(cics_bms_compiler): declare copybook schema BMS-MACRO.cpy
