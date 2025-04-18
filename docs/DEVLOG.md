@@ -170,3 +170,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-04-08** `[167]`: feat(cics_bms_compiler): implement cics_bms_compiler.cbl operational routines
 - **2025-04-11** `[168]`: test(cics_bms_compiler): add automated unit tests in cics_recovery_test.cbl
 - **2025-04-15** `[169]`: Merge pull request #55 from pilvepank/feat-cics_bms_compiler
+- **2025-04-18** `[170]`: feat(cics_journal_recovery): declare copybook schema JOURNAL-RECORD.cpy
