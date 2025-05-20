@@ -179,3 +179,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-05-10** `[176]`: test(cics_interval_control): add automated unit tests in cics_enq_test.cbl
 - **2025-05-13** `[177]`: Merge pull request #57 from pilvepank/feat-cics_interval_control
 - **2025-05-17** `[178]`: feat(cics_enq_deq): declare copybook schema ENQ-TABLE.cpy
+- **2025-05-20** `[179]`: feat(cics_enq_deq): implement cics_enq_deq.cbl operational routines
