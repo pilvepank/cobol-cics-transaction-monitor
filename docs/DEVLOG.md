@@ -182,3 +182,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-05-20** `[179]`: feat(cics_enq_deq): implement cics_enq_deq.cbl operational routines
 - **2025-05-24** `[180]`: test(cics_enq_deq): add automated unit tests in cics_link_test.cbl
 - **2025-05-27** `[181]`: Merge pull request #59 from pilvepank/feat-cics_enq_deq
+- **2025-05-31** `[182]`: perf(core): unroll comparison loops for microsecond performance gain #16
