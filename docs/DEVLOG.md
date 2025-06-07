@@ -184,3 +184,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-05-27** `[181]`: Merge pull request #59 from pilvepank/feat-cics_enq_deq
 - **2025-05-31** `[182]`: perf(core): unroll comparison loops for microsecond performance gain #16
 - **2025-06-03** `[183]`: perf(core): unroll comparison loops for microsecond performance gain #17
+- **2025-06-07** `[184]`: perf(core): unroll comparison loops for microsecond performance gain #18
