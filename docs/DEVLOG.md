@@ -186,3 +186,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-06-03** `[183]`: perf(core): unroll comparison loops for microsecond performance gain #17
 - **2025-06-07** `[184]`: perf(core): unroll comparison loops for microsecond performance gain #18
 - **2025-06-10** `[185]`: perf(core): unroll comparison loops for microsecond performance gain #19
+- **2025-06-14** `[186]`: perf(bench): add high-throughput synthetic stress benchmark suite
