@@ -188,3 +188,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-06-10** `[185]`: perf(core): unroll comparison loops for microsecond performance gain #19
 - **2025-06-14** `[186]`: perf(bench): add high-throughput synthetic stress benchmark suite
 - **2025-06-17** `[187]`: build: update Windows build automation script to compile all submodules
+- **2025-06-21** `[188]`: build: update Windows execution batch to run all test harnesses
