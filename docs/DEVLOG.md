@@ -191,3 +191,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2025-06-21** `[188]`: build: update Windows execution batch to run all test harnesses
 - **2025-06-24** `[189]`: build: add POSIX Makefile with test, clean, and coverage targets
 - **2025-06-28** `[190]`: ci: configure automated GitHub Actions CI workflow with GnuCOBOL 3.2
+- **2025-06-28** `[191]`: chore(cics): release production milestone v2.1.0 with verified test suite
