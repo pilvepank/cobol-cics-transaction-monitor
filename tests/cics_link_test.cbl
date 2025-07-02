@@ -7,7 +7,7 @@
 
  DATA DIVISION.
  WORKING-STORAGE SECTION.
- COPY "LINK-STACK.cpy".
+ COPY "copybooks/LINK-STACK.cpy".
  01  WS-ACT                 PIC X(04) VALUE "LINK".
  01  WS-PGM                 PIC X(08) VALUE "PAYROLL1".
  01  WS-LEN                 PIC 9(04) COMP-5 VALUE 128.

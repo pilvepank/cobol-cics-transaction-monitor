@@ -7,7 +7,7 @@
 
  DATA DIVISION.
  WORKING-STORAGE SECTION.
- COPY "ENQ-TABLE.cpy".
+ COPY "copybooks/ENQ-TABLE.cpy".
  01  WS-OP                  PIC X(01) VALUE 'E'.
  01  WS-RES                 PIC X(16) VALUE "ACCOUNT-FILE-CTL".
  01  WS-TASK                PIC 9(09) COMP-5 VALUE 501.

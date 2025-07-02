@@ -7,7 +7,7 @@
 
  DATA DIVISION.
  WORKING-STORAGE SECTION.
- COPY "ICP-QUEUE.cpy".
+ COPY "copybooks/ICP-QUEUE.cpy".
  01  WS-OP                  PIC X(01) VALUE 'S'.
  01  WS-TRN                 PIC X(04) VALUE "PAY1".
  01  WS-DLY                 PIC 9(06) COMP-5 VALUE 60.
